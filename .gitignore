@@ -4,8 +4,11 @@
 **/dist/
 **/.venv/
 **/.env
-**/.dart_tool/
-**/build/
+**/.flutter-plugins-dependencies
+mobile/build/
+mobile/.dart_tool/
+backend/data/*.db
+backend/data/*.db-*
 **/.idea/
 **/*.iml
 **/android/local.properties
